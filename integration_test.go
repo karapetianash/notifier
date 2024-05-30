@@ -5,7 +5,7 @@ package notify_test
 import (
 	"testing"
 
-	"notify"
+	"github.com/karapetianash/notifier"
 )
 
 func TestSend(t *testing.T) {
